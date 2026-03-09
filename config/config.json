@@ -1,4 +1,4 @@
 {
   "api_url": "https://jsonplaceholder.typicode.com/posts",
-  "target_path": "/tmp/bronze/posts"
+  "target_path": "/src/bronze/posts"
 }
